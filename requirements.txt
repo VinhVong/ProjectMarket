@@ -1,0 +1,9 @@
+pandas
+streamlit
+altair
+datetime
+seaborn
+matplotlib.pyplot
+plotly.graph_objects
+plotly.express
+PIL
